@@ -49,10 +49,10 @@ This is a simple project to understand backend concepts, so the frontend will be
    npm start
 
 ## 🌐 API Endpoints
-Endpoint	                Method	 Description
-/api/url/shorten	        POST	   Create short URL
-/api/url/:shortUrl	      GET	     Redirect to original URL
-/api/url/stats/:shortUrl	GET	     Get URL analytics
+
+/api/url/shorten	  POST	   Create short URL
+/api/url/:shortUrl	GET	     Redirect to original URL
+/api/url/stats/:shortUrl	GET	 Get URL analytics
 
 ## Project Structure
 url-shortener/
